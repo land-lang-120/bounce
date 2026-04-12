@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
+  <rect width="192" height="192" rx="32" fill="#060010"/>
+  <circle cx="96" cy="86" r="32" fill="url(#g1)"/>
+  <path d="M96 118 Q60 140 50 160 Q96 150 142 160 Q132 140 96 118Z" fill="#ff6030" opacity="0.4"/>
+  <text x="96" y="176" text-anchor="middle" font-family="monospace" font-weight="900" font-size="20" fill="#ff8040" letter-spacing="4">BOUNCE</text>
+  <defs>
+    <radialGradient id="g1" cx="40%" cy="35%">
+      <stop offset="0%" stop-color="#ff9060"/>
+      <stop offset="100%" stop-color="#ff2200"/>
+    </radialGradient>
+  </defs>
+</svg>
